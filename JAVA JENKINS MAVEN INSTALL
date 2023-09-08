@@ -1,0 +1,9 @@
+find / -name java-11*
+
+/usr/lib/jvm/java-11-openjdk-11.0.20.0.8-1.amzn2.0.1.x86_64
+
+
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/root/bin:/usr/lib/jvm/java-11-openjdk-11.0.20.0.8-1.amzn2.0.1.x86_64:/opt/maven:/opt/maven/bin
+
+
+http://54.172.129.65:8080/
